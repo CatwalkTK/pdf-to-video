@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.eggs/
+*.egg
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Output files
+*.mp4
+*.wav
+*.png
+!example_output.png
+
+# Temp
+*.tmp
+*.temp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Test files
+test_*.pdf
+output*.mp4
